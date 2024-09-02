@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-native": "0.74.3",
+    "react-native": "0.75.0",
     "react-native-camera-kit": "^13.0.0",
     "react-native-upi-payments": "^1.1.8"
   },
